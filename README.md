@@ -2,6 +2,16 @@
 
 爬取kemono图片的爬虫，该项目仅仅只是练习使用
 
+```
+pip install bs4
+
+pip install requests
+
+pip install urllib3
+
+pip install lxml
+```
+
 
 在该代码所在的目录下，创建一个 result 文件夹
 
